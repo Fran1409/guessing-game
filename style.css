@@ -1,0 +1,47 @@
+body {
+    background-color: #f9f7cf;
+    color: #7c7a7a;
+    font-family: 'Questrial', sans-serif;
+}
+
+.container {
+    background-color: #f2dcbb;
+    width: 500px;
+    height: 250px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+h3 {
+    padding-top: 50px;
+}
+
+p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#number {
+    background-color: #f9f7cf;
+    border-color: #bbbbbb;
+    border-style: solid;
+    border-width: 1px;
+    padding: 4px 15px;
+
+}
+
+#submit {
+    background-color: #bbbbbb;
+    color: #f9f7cf;
+    font-size: 15px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 4px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#submit:hover {
+    background-color: #bbbbbbb6;
+}
